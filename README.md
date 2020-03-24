@@ -4,13 +4,13 @@
 
 ## Introduction
 
-This is a starter project with Node.js and TypeScript. It contains basic building, development, and production environment settings for a Node.js with TypeScript application. You can use this as a reference implementation to start your Node.js with TypeScript project.
+This is a starter project with `Node.js` and `TypeScript`. It contains basic building, development, and production environment settings for a Node.js with TypeScript application. You can use this as a reference implementation to start your Node.js with TypeScript project.
 
 <br/>
 
 ## Prerequisites
 
-To run this application, these prerequisites below should be installed on the system before you run it.
+To run this application, these prerequisites below should be installed on the system before you run it. So, please make sure all the prerequisites below are satisfied.
 
 | Classification | Name           |
 |----------------|----------------|
